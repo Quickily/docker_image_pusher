@@ -1,1 +1,1 @@
-ubuntu:22.04
+mzz2017/v2raya
